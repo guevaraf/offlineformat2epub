@@ -1,0 +1,1247 @@
+﻿<book id="9781430231745">
+  <cdalicensor code="APRESS">Apress</cdalicensor>
+  <rights>Copyright © 2011 by Bryan Costanich</rights>
+  <language>en</language>
+  <contenttype role="book"></contenttype>
+  <formattypes recommended="PrintFidelity">
+    <type format="HTML" source="Docbook"></type>
+    <type format="PrintFidelity"></type>
+  </formattypes>
+  <contentstate mode="active"></contentstate>
+  <safarimeta fpi="9781430231745">
+    <isbn>978-1-4302-3174-5</isbn>
+    <title>Developing C# Apps for iPhone and iPad Using MonoTouch: iOS Apps Development for .NET Developers</title>
+    <edition>1</edition>
+    <rights>Copyright © 2011 by Bryan Costanich</rights>
+    <authorgroup>
+      <author>
+        <firstname>Bryan</firstname>
+        <surname>Costanich</surname>
+      </author>
+    </authorgroup>
+    <pagenums>510</pagenums>
+    <pubdate>June 13, 2011</pubdate>
+    <publisher>
+      <publishername>Apress</publishername>
+      <imprintname>Apress</imprintname>
+    </publisher>
+    <description-short>
+      <para>
+        <emphasis>Developing C# Applications for iPhone and iPad using MonoTouch</emphasis> shows you how to use your existing C# skills to write apps for the iPhone and iPad. Fortunately, there's MonoTouch, Novell's .NET library that allows C# developers to write C# code that executes in iOS. Furthermore, MonoTouch allows you to address all the unique functions of the iPhone, iPod Touch, and iPad. And the big plus: You needn't learn any Objective-C to master MonoTouch!
+      </para>
+      <para>
+        Former Microsoft engineer and published app-store developer <emphasis role="strong">Bryan Costanich</emphasis> shows you how to use the tools you already know to create native apps in iOS using C# and the .NET Base Class Libraries. The magic is in Novell's implementation of Apple's Cocoa libraries in MonoTouch. You'll master the same elegant and rich Cocoa environment, but without the need to learn a new programming language.
+      </para>
+      <para>
+        <emphasis>Developing C# Applications for iPhone and iPad using MonoTouch</emphasis> takes you from your first "Hello, World" example through the major APIs and features of iOS. The coverage is comprehensive and makes use of frequent examples, complete with sample code you can download and reuse to create your own powerful and playful apps.
+      </para>
+      <para>
+        <emphasis role="strong">What you'll learn</emphasis>
+      </para>
+      <itemizedlist mark="bull">
+        <listitem>
+          <para>
+            How to use your <emphasis>existing</emphasis> C# skills to develop applications on the iPhone and iPad
+          </para>
+        </listitem>
+        <listitem>
+          <para>Apple's Model View Controller (MVC) methodology</para>
+        </listitem>
+        <listitem>
+          <para>Working with CocoaTouch's UIKit to create iOS applications using native controls</para>
+        </listitem>
+        <listitem>
+          <para>Device-specific features, like the camera, GPS, and Compass using CoreLocation, the accelerometer, and others</para>
+        </listitem>
+        <listitem>
+          <para>Accessing shared resources such as the photos, contacts, and more</para>
+        </listitem>
+        <listitem>
+          <para>How to persist and retrieve data using SQLite and .NET libraries</para>
+        </listitem>
+        <listitem>
+          <para>Complex drawing and animation using CoreGraphics and CoreAnimation</para>
+        </listitem>
+        <listitem>
+          <para>The use of Apple's Push Notification Service</para>
+        </listitem>
+        <listitem>
+          <para>The latest game porting techniques using XNA Touch</para>
+        </listitem>
+        <listitem>
+          <para>How to integrate off-the-shelf Objective-C libraries</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <emphasis role="strong">Who this book is for</emphasis>
+      </para>
+      <para>Every .NET and C# developer who has have ever wanted to create an application or game for Apple's App Store.</para>
+    </description-short>
+    <msrp>49.99</msrp>
+    <points royalty="all">1</points>
+    <graphic role="category-page" fileref="9781430231745_xs.gif" width="76" depth="95"></graphic>
+    <graphic role="book-page" fileref="9781430231745_s.gif" width="145" depth="181"></graphic>
+    <graphic role="small-cover" fileref="9781430231745_cs.gif" width="42" depth="52"></graphic>
+    <graphic role="large-cover" fileref="9781430231745_lrg.jpg" width="1275" depth="1593"></graphic>
+    <bibliomisc role="buyprint" url="http://www.springer.com/computer/programming/book/978-1-4302-3174-5"></bibliomisc>
+    <offlinecontentlist>
+      <offlineunit role="book" tokens="20">
+        <file format="pdf" url="9781430231745.pdf"></file>
+      </offlineunit>
+      <offlineunit linkid="preface" tokens="0"></offlineunit>
+      <offlineunit linkid="dedication" tokens="0"></offlineunit>
+      <offlineunit linkid="about_the_author" tokens="0"></offlineunit>
+      <offlineunit linkid="about_the_technical_reviewer" tokens="0"></offlineunit>
+      <offlineunit linkid="acknowledgments" tokens="0"></offlineunit>
+      <offlineunit linkid="preface-id1" tokens="0"></offlineunit>
+      <offlineunit tokens="1" linkid="getting_started_with_monotouch"></offlineunit>
+      <offlineunit tokens="1" linkid="our_first_application"></offlineunit>
+      <offlineunit tokens="1" linkid="creating_multi-screen_applications_using"></offlineunit>
+      <offlineunit tokens="1" linkid="ipad_and_universal_open_parenthesis_ipho"></offlineunit>
+      <offlineunit tokens="1" linkid="more_on_views_and_controllers"></offlineunit>
+      <offlineunit tokens="1" linkid="introduction_to_controls"></offlineunit>
+      <offlineunit tokens="1" linkid="standard_controls"></offlineunit>
+      <offlineunit tokens="1" linkid="content_controls"></offlineunit>
+      <offlineunit tokens="1" linkid="working_with_tables"></offlineunit>
+      <offlineunit tokens="1" linkid="working_with_keyboards"></offlineunit>
+      <offlineunit tokens="1" linkid="multitasking"></offlineunit>
+      <offlineunit tokens="1" linkid="working_with_touch"></offlineunit>
+      <offlineunit tokens="1" linkid="working_with_shared_resources"></offlineunit>
+      <offlineunit tokens="1" linkid="user_and_application_settings"></offlineunit>
+      <offlineunit tokens="1" linkid="working_with_corelocation"></offlineunit>
+      <offlineunit tokens="1" linkid="drawing_with_coregraphics"></offlineunit>
+      <offlineunit tokens="1" linkid="core_animation"></offlineunit>
+      <offlineunit tokens="1" linkid="notifications"></offlineunit>
+      <offlineunit tokens="1" linkid="working_with_data"></offlineunit>
+      <offlineunit tokens="1" linkid="publishing_to_the_app_store"></offlineunit>
+      <offlineunit tokens="1" linkid="third-party_libraries"></offlineunit>
+      <offlineunit tokens="1" linkid="using_objective-c_libraries_and_code"></offlineunit>
+    </offlinecontentlist>
+    <grbook></grbook>
+    <aliases>
+      <alias type="isbn" label="Print ISBN" name="9781430231745" display="978-1-430-23174-5"></alias>
+      <alias type="isbn" label="Web ISBN" name="1430231742" display="1-430231-74-2"></alias>
+    </aliases>
+    <grbook></grbook>
+    <flashbook></flashbook>
+    <language>en</language>
+    <wasroughcuts>false</wasroughcuts>
+    <status>unknown</status>
+    <categories>
+      <category code="itdev.programming.csharp">C#</category>
+    </categories>
+  </safarimeta>
+  <isbn>9781430231745</isbn>
+  <title>Developing C# Apps for iPhone and iPad Using MonoTouch: iOS Apps Development for .NET Developers</title>
+  <dateadded>2011/06/10</dateadded>
+  <dateupdated>2011/07/28</dateupdated>
+  <url>http://origin-safari5.bvdep.com/9781430231745</url>
+  <aliases>
+    <alias type="isbn" label="Print ISBN" name="9781430231745" display="978-1-430-23174-5"></alias>
+    <alias type="isbn" label="Web ISBN" name="1430231742" display="1-430231-74-2"></alias>
+  </aliases>
+  <edition>1</edition>
+  <authorgroup>
+    <author>
+      <firstname>Bryan</firstname>
+      <surname>Costanich</surname>
+    </author>
+  </authorgroup>
+  <pagenums>510</pagenums>
+  <pubdate>June 13, 2011</pubdate>
+  <subjectset></subjectset>
+  <categories>
+    <category code="itdev.programming.csharp">C#</category>
+  </categories>
+  <publisher>
+    <publishername>Apress</publishername>
+    <imprintname>Apress</imprintname>
+  </publisher>
+  <description>Developing C# Applications for iPhone and iPad using MonoTouch shows you how to use your existing C# skills to write apps for the iPhone and iPad. Fortunately, there's MonoTouch, Novell's .NET library that allows C# developers to write C# code that executes in iOS. Furthermore, MonoTouch allows you to address all the unique functions of the iPhone, iPod Touch, and iPad. And the big plus: You needn't learn any Objective-C to master MonoTouch! Former Microsoft engineer and published app-store developer Bryan Costanich shows you how to use the tools you already know to create native apps in iOS using C# and the .NET Base Class Libraries. The magic is in Novell's implementation of Apple's Cocoa libraries in MonoTouch. You'll master the same elegant and rich Cocoa environment, but without the need to learn a new programming language. Developing C# Applications for iPhone and iPad using MonoTouch takes you from your first "Hello, World" example through the major APIs and features of iOS. The coverage is comprehensive and makes use of frequent examples, complete with sample code you can download and reuse to create your own powerful and playful apps. What you'll learn How to use your existing C# skills to develop applications on the iPhone and iPad Apple's Model View Controller (MVC) methodology Working with CocoaTouch's UIKit to create iOS applications using native controls Device-specific features, like the camera, GPS, and Compass using CoreLocation, the accelerometer, and others Accessing shared resources such as the photos, contacts, and more How to persist and retrieve data using SQLite and .NET libraries Complex drawing and animation using CoreGraphics and CoreAnimation The use of Apple's Push Notification Service The latest game porting techniques using XNA Touch How to integrate off-the-shelf Objective-C libraries Who this book is for Every .NET and C# developer who has have ever wanted to create an application or game for Apple's App Store.</description>
+  <msrp>49.99</msrp>
+  <slots>1</slots>
+  <hits>21</hits>
+  <imagesmall>http://origin-safari5.bvdep.com/images/9781430231745/9781430231745_cs.gif</imagesmall>
+  <imagemedium>http://origin-safari5.bvdep.com/images/9781430231745/9781430231745_xs.gif</imagemedium>
+  <imagelarge>http://origin-safari5.bvdep.com/images/9781430231745/9781430231745_s.gif</imagelarge>
+  <buyprint>http://www.springer.com/computer/programming/book/978-1-4302-3174-5</buyprint>
+  <offlinecontentlist>
+    <offlineunit role="book" tokens="20">
+      <file format="pdf" url="9781430231745.pdf"></file>
+    </offlineunit>
+    <offlineunit linkid="preface" tokens="0"></offlineunit>
+    <offlineunit linkid="dedication" tokens="0"></offlineunit>
+    <offlineunit linkid="about_the_author" tokens="0"></offlineunit>
+    <offlineunit linkid="about_the_technical_reviewer" tokens="0"></offlineunit>
+    <offlineunit linkid="acknowledgments" tokens="0"></offlineunit>
+    <offlineunit linkid="preface-id1" tokens="0"></offlineunit>
+    <offlineunit tokens="1" linkid="getting_started_with_monotouch"></offlineunit>
+    <offlineunit tokens="1" linkid="our_first_application"></offlineunit>
+    <offlineunit tokens="1" linkid="creating_multi-screen_applications_using"></offlineunit>
+    <offlineunit tokens="1" linkid="ipad_and_universal_open_parenthesis_ipho"></offlineunit>
+    <offlineunit tokens="1" linkid="more_on_views_and_controllers"></offlineunit>
+    <offlineunit tokens="1" linkid="introduction_to_controls"></offlineunit>
+    <offlineunit tokens="1" linkid="standard_controls"></offlineunit>
+    <offlineunit tokens="1" linkid="content_controls"></offlineunit>
+    <offlineunit tokens="1" linkid="working_with_tables"></offlineunit>
+    <offlineunit tokens="1" linkid="working_with_keyboards"></offlineunit>
+    <offlineunit tokens="1" linkid="multitasking"></offlineunit>
+    <offlineunit tokens="1" linkid="working_with_touch"></offlineunit>
+    <offlineunit tokens="1" linkid="working_with_shared_resources"></offlineunit>
+    <offlineunit tokens="1" linkid="user_and_application_settings"></offlineunit>
+    <offlineunit tokens="1" linkid="working_with_corelocation"></offlineunit>
+    <offlineunit tokens="1" linkid="drawing_with_coregraphics"></offlineunit>
+    <offlineunit tokens="1" linkid="core_animation"></offlineunit>
+    <offlineunit tokens="1" linkid="notifications"></offlineunit>
+    <offlineunit tokens="1" linkid="working_with_data"></offlineunit>
+    <offlineunit tokens="1" linkid="publishing_to_the_app_store"></offlineunit>
+    <offlineunit tokens="1" linkid="third-party_libraries"></offlineunit>
+    <offlineunit tokens="1" linkid="using_objective-c_libraries_and_code"></offlineunit>
+  </offlinecontentlist>
+  <section id="9781430231745" rank="1" position="0">
+    <url>http://origin-safari5.bvdep.com/9781430231745</url>
+    <heading></heading>
+    <type></type>
+    <title>Developing C# Apps for iPhone and iPad Using MonoTouch: iOS Apps Development for .NET Developers</title>
+  </section>
+  <tableofcontents>
+    <section id="9781430231745/preface">
+      <url>http://origin-safari5.bvdep.com/9781430231745/preface</url>
+      <heading></heading>
+      <type>preface</type>
+      <title>Copyright</title>
+    </section>
+    <section id="9781430231745/dedication">
+      <url>http://origin-safari5.bvdep.com/9781430231745/dedication</url>
+      <heading></heading>
+      <type>dedication</type>
+      <title>Dedication</title>
+    </section>
+    <section id="9781430231745/about_the_author">
+      <url>http://origin-safari5.bvdep.com/9781430231745/about_the_author</url>
+      <heading></heading>
+      <type>preface</type>
+      <title>About the Author</title>
+    </section>
+    <section id="9781430231745/about_the_technical_reviewer">
+      <url>http://origin-safari5.bvdep.com/9781430231745/about_the_technical_reviewer</url>
+      <heading></heading>
+      <type>preface</type>
+      <title>About the Technical Reviewer</title>
+    </section>
+    <section id="9781430231745/acknowledgments">
+      <url>http://origin-safari5.bvdep.com/9781430231745/acknowledgments</url>
+      <heading></heading>
+      <type>preface</type>
+      <title>Acknowledgments</title>
+    </section>
+    <section id="9781430231745/preface-id1">
+      <url>http://origin-safari5.bvdep.com/9781430231745/preface-id1</url>
+      <heading></heading>
+      <type>preface</type>
+      <title>Preface</title>
+    </section>
+    <section id="9781430231745/getting_started_with_monotouch">
+      <url>http://origin-safari5.bvdep.com/9781430231745/getting_started_with_monotouch</url>
+      <heading>Chapter 1. </heading>
+      <type>chapter</type>
+      <title>Getting Started with MonoTouch</title>
+      <section id="9781430231745/developing_for_the_iphone_and_ipad">
+        <url>http://origin-safari5.bvdep.com/9781430231745/developing_for_the_iphone_and_ipad</url>
+        <heading>Section 1.1. </heading>
+        <type>sect1</type>
+        <title>Developing for the iPhone and iPad</title>
+      </section>
+      <section id="9781430231745/monotouch_background">
+        <url>http://origin-safari5.bvdep.com/9781430231745/monotouch_background</url>
+        <heading>Section 1.2. </heading>
+        <type>sect1</type>
+        <title>MonoTouch Background</title>
+      </section>
+      <section id="9781430231745/getting_started">
+        <url>http://origin-safari5.bvdep.com/9781430231745/getting_started</url>
+        <heading>Section 1.3. </heading>
+        <type>sect1</type>
+        <title>Getting Started</title>
+      </section>
+      <section id="9781430231745/summary">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary</url>
+        <heading>Section 1.4. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/our_first_application">
+      <url>http://origin-safari5.bvdep.com/9781430231745/our_first_application</url>
+      <heading>Chapter 2. </heading>
+      <type>chapter</type>
+      <title>Our First Application</title>
+      <section id="9781430231745/starting_the_example">
+        <url>http://origin-safari5.bvdep.com/9781430231745/starting_the_example</url>
+        <heading>Section 2.1. </heading>
+        <type>sect1</type>
+        <title>Starting the Example</title>
+      </section>
+      <section id="9781430231745/interface_builder">
+        <url>http://origin-safari5.bvdep.com/9781430231745/interface_builder</url>
+        <heading>Section 2.2. </heading>
+        <type>sect1</type>
+        <title>Interface Builder</title>
+      </section>
+      <section id="9781430231745/outlets">
+        <url>http://origin-safari5.bvdep.com/9781430231745/outlets</url>
+        <heading>Section 2.3. </heading>
+        <type>sect1</type>
+        <title>Outlets</title>
+      </section>
+      <section id="9781430231745/actions">
+        <url>http://origin-safari5.bvdep.com/9781430231745/actions</url>
+        <heading>Section 2.4. </heading>
+        <type>sect1</type>
+        <title>Actions</title>
+      </section>
+      <section id="9781430231745/choosing_which_device_to_simulate">
+        <url>http://origin-safari5.bvdep.com/9781430231745/choosing_which_device_to_simulate</url>
+        <heading>Section 2.5. </heading>
+        <type>sect1</type>
+        <title>Choosing Which Device to Simulate</title>
+      </section>
+      <section id="9781430231745/application_name_and_icons">
+        <url>http://origin-safari5.bvdep.com/9781430231745/application_name_and_icons</url>
+        <heading>Section 2.6. </heading>
+        <type>sect1</type>
+        <title>Application Name and Icons</title>
+      </section>
+      <section id="9781430231745/summary-004">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-004</url>
+        <heading>Section 2.7. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/creating_multi-screen_applications_using">
+      <url>http://origin-safari5.bvdep.com/9781430231745/creating_multi-screen_applications_using</url>
+      <heading>Chapter 3. </heading>
+      <type>chapter</type>
+      <title>Creating Multi-Screen Applications Using the MVC Pattern</title>
+      <section id="9781430231745/model-view-controller_open_parenthesis_m">
+        <url>http://origin-safari5.bvdep.com/9781430231745/model-view-controller_open_parenthesis_m</url>
+        <heading>Section 3.1. </heading>
+        <type>sect1</type>
+        <title>Model-View-Controller (MVC) Pattern</title>
+      </section>
+      <section id="9781430231745/benefits_of_the_mvc_pattern">
+        <url>http://origin-safari5.bvdep.com/9781430231745/benefits_of_the_mvc_pattern</url>
+        <heading>Section 3.2. </heading>
+        <type>sect1</type>
+        <title>Benefits of the MVC Pattern</title>
+      </section>
+      <section id="9781430231745/views_and_view_controllers_in_monotouch">
+        <url>http://origin-safari5.bvdep.com/9781430231745/views_and_view_controllers_in_monotouch</url>
+        <heading>Section 3.3. </heading>
+        <type>sect1</type>
+        <title>Views and View Controllers in MonoTouch</title>
+      </section>
+      <section id="9781430231745/sample_application">
+        <url>http://origin-safari5.bvdep.com/9781430231745/sample_application</url>
+        <heading>Section 3.4. </heading>
+        <type>sect1</type>
+        <title>Sample Application</title>
+      </section>
+      <section id="9781430231745/summary-005">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-005</url>
+        <heading>Section 3.5. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/ipad_and_universal_open_parenthesis_ipho">
+      <url>http://origin-safari5.bvdep.com/9781430231745/ipad_and_universal_open_parenthesis_ipho</url>
+      <heading>Chapter 4. </heading>
+      <type>chapter</type>
+      <title>iPad and Universal (iPhone/iPad) Applications</title>
+      <section id="9781430231745/a_note_about_resolution_on_the_iphone">
+        <url>http://origin-safari5.bvdep.com/9781430231745/a_note_about_resolution_on_the_iphone</url>
+        <heading>Section 4.1. </heading>
+        <type>sect1</type>
+        <title>A Note About Resolution on the iPhone</title>
+      </section>
+      <section id="9781430231745/creating_an_ipad-only_application">
+        <url>http://origin-safari5.bvdep.com/9781430231745/creating_an_ipad-only_application</url>
+        <heading>Section 4.2. </heading>
+        <type>sect1</type>
+        <title>Creating an iPad-Only Application</title>
+      </section>
+      <section id="9781430231745/creating_a_universal_iphone_solidus_ipad">
+        <url>http://origin-safari5.bvdep.com/9781430231745/creating_a_universal_iphone_solidus_ipad</url>
+        <heading>Section 4.3. </heading>
+        <type>sect1</type>
+        <title>Creating a Universal iPhone/iPad Application</title>
+      </section>
+      <section id="9781430231745/summary-006">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-006</url>
+        <heading>Section 4.4. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/more_on_views_and_controllers">
+      <url>http://origin-safari5.bvdep.com/9781430231745/more_on_views_and_controllers</url>
+      <heading>Chapter 5. </heading>
+      <type>chapter</type>
+      <title>More on Views and Controllers</title>
+      <section id="9781430231745/custom_uiviewcontroller_and_uiview_imple">
+        <url>http://origin-safari5.bvdep.com/9781430231745/custom_uiviewcontroller_and_uiview_imple</url>
+        <heading>Section 5.1. </heading>
+        <type>sect1</type>
+        <title>Custom UIViewController and UIView Implementations</title>
+      </section>
+      <section id="9781430231745/managing_more_than_one_view_in_a_control">
+        <url>http://origin-safari5.bvdep.com/9781430231745/managing_more_than_one_view_in_a_control</url>
+        <heading>Section 5.2. </heading>
+        <type>sect1</type>
+        <title>Managing More than One View in a Controller</title>
+      </section>
+      <section id="9781430231745/handling_rotation">
+        <url>http://origin-safari5.bvdep.com/9781430231745/handling_rotation</url>
+        <heading>Section 5.3. </heading>
+        <type>sect1</type>
+        <title>Handling Rotation</title>
+      </section>
+      <section id="9781430231745/summary-008">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-008</url>
+        <heading>Section 5.4. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/introduction_to_controls">
+      <url>http://origin-safari5.bvdep.com/9781430231745/introduction_to_controls</url>
+      <heading>Chapter 6. </heading>
+      <type>chapter</type>
+      <title>Introduction to Controls</title>
+      <section id="9781430231745/coordinate_system">
+        <url>http://origin-safari5.bvdep.com/9781430231745/coordinate_system</url>
+        <heading>Section 6.1. </heading>
+        <type>sect1</type>
+        <title>Coordinate System</title>
+      </section>
+      <section id="9781430231745/autosizing-009">
+        <url>http://origin-safari5.bvdep.com/9781430231745/autosizing-009</url>
+        <heading>Section 6.2. </heading>
+        <type>sect1</type>
+        <title>Autosizing</title>
+      </section>
+      <section id="9781430231745/working_with_fonts">
+        <url>http://origin-safari5.bvdep.com/9781430231745/working_with_fonts</url>
+        <heading>Section 6.3. </heading>
+        <type>sect1</type>
+        <title>Working with Fonts</title>
+      </section>
+      <section id="9781430231745/tags">
+        <url>http://origin-safari5.bvdep.com/9781430231745/tags</url>
+        <heading>Section 6.4. </heading>
+        <type>sect1</type>
+        <title>Tags</title>
+      </section>
+      <section id="9781430231745/control_states">
+        <url>http://origin-safari5.bvdep.com/9781430231745/control_states</url>
+        <heading>Section 6.5. </heading>
+        <type>sect1</type>
+        <title>Control States</title>
+      </section>
+      <section id="9781430231745/working_with_images">
+        <url>http://origin-safari5.bvdep.com/9781430231745/working_with_images</url>
+        <heading>Section 6.6. </heading>
+        <type>sect1</type>
+        <title>Working with Images</title>
+      </section>
+      <section id="9781430231745/subclassing_open_parenthesis_creating_cu">
+        <url>http://origin-safari5.bvdep.com/9781430231745/subclassing_open_parenthesis_creating_cu</url>
+        <heading>Section 6.7. </heading>
+        <type>sect1</type>
+        <title>Subclassing (Creating Custom Controls)</title>
+      </section>
+      <section id="9781430231745/prototypes_vs._delegates_vs._events_comm">
+        <url>http://origin-safari5.bvdep.com/9781430231745/prototypes_vs._delegates_vs._events_comm</url>
+        <heading>Section 6.8. </heading>
+        <type>sect1</type>
+        <title>Prototypes vs. Delegates vs. Events, What?</title>
+      </section>
+      <section id="9781430231745/updating_your_controls_from_the_ui_threa">
+        <url>http://origin-safari5.bvdep.com/9781430231745/updating_your_controls_from_the_ui_threa</url>
+        <heading>Section 6.9. </heading>
+        <type>sect1</type>
+        <title>Updating Your Controls from the UI Thread</title>
+      </section>
+      <section id="9781430231745/summary-010">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-010</url>
+        <heading>Section 6.10. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/standard_controls">
+      <url>http://origin-safari5.bvdep.com/9781430231745/standard_controls</url>
+      <heading>Chapter 7. </heading>
+      <type>chapter</type>
+      <title>Standard Controls</title>
+      <section id="9781430231745/uilabel">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uilabel</url>
+        <heading>Section 7.1. </heading>
+        <type>sect1</type>
+        <title>UILabel</title>
+      </section>
+      <section id="9781430231745/uibutton">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uibutton</url>
+        <heading>Section 7.2. </heading>
+        <type>sect1</type>
+        <title>UIButton</title>
+      </section>
+      <section id="9781430231745/uiimage">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uiimage</url>
+        <heading>Section 7.3. </heading>
+        <type>sect1</type>
+        <title>UIImage</title>
+      </section>
+      <section id="9781430231745/uiscrollview">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uiscrollview</url>
+        <heading>Section 7.4. </heading>
+        <type>sect1</type>
+        <title>UIScrollView</title>
+      </section>
+      <section id="9781430231745/uisegmentedcontrol">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uisegmentedcontrol</url>
+        <heading>Section 7.5. </heading>
+        <type>sect1</type>
+        <title>UISegmentedControl</title>
+      </section>
+      <section id="9781430231745/uiswitch">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uiswitch</url>
+        <heading>Section 7.6. </heading>
+        <type>sect1</type>
+        <title>UISwitch</title>
+      </section>
+      <section id="9781430231745/uislider">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uislider</url>
+        <heading>Section 7.7. </heading>
+        <type>sect1</type>
+        <title>UISlider</title>
+      </section>
+      <section id="9781430231745/uiactivityindicatorview">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uiactivityindicatorview</url>
+        <heading>Section 7.8. </heading>
+        <type>sect1</type>
+        <title>UIActivityIndicatorView</title>
+      </section>
+      <section id="9781430231745/uiprogressview">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uiprogressview</url>
+        <heading>Section 7.9. </heading>
+        <type>sect1</type>
+        <title>UIProgressView</title>
+      </section>
+      <section id="9781430231745/uipagercontrol">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uipagercontrol</url>
+        <heading>Section 7.10. </heading>
+        <type>sect1</type>
+        <title>UIPagerControl</title>
+      </section>
+      <section id="9781430231745/uialertview">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uialertview</url>
+        <heading>Section 7.11. </heading>
+        <type>sect1</type>
+        <title>UIAlertView</title>
+      </section>
+      <section id="9781430231745/uiactionsheet">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uiactionsheet</url>
+        <heading>Section 7.12. </heading>
+        <type>sect1</type>
+        <title>UIActionSheet</title>
+      </section>
+      <section id="9781430231745/uidatepicker">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uidatepicker</url>
+        <heading>Section 7.13. </heading>
+        <type>sect1</type>
+        <title>UIDatePicker</title>
+      </section>
+      <section id="9781430231745/uipickerview">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uipickerview</url>
+        <heading>Section 7.14. </heading>
+        <type>sect1</type>
+        <title>UIPickerView</title>
+      </section>
+      <section id="9781430231745/uitoolbar">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uitoolbar</url>
+        <heading>Section 7.15. </heading>
+        <type>sect1</type>
+        <title>UIToolbar</title>
+      </section>
+      <section id="9781430231745/summary-012">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-012</url>
+        <heading>Section 7.16. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/content_controls">
+      <url>http://origin-safari5.bvdep.com/9781430231745/content_controls</url>
+      <heading>Chapter 8. </heading>
+      <type>chapter</type>
+      <title>Content Controls</title>
+      <section id="9781430231745/navigation_controller">
+        <url>http://origin-safari5.bvdep.com/9781430231745/navigation_controller</url>
+        <heading>Section 8.1. </heading>
+        <type>sect1</type>
+        <title>Navigation Controller</title>
+      </section>
+      <section id="9781430231745/tab_bar_controller">
+        <url>http://origin-safari5.bvdep.com/9781430231745/tab_bar_controller</url>
+        <heading>Section 8.2. </heading>
+        <type>sect1</type>
+        <title>Tab Bar Controller</title>
+      </section>
+      <section id="9781430231745/split_view_controller">
+        <url>http://origin-safari5.bvdep.com/9781430231745/split_view_controller</url>
+        <heading>Section 8.3. </heading>
+        <type>sect1</type>
+        <title>Split View Controller</title>
+      </section>
+      <section id="9781430231745/web_view">
+        <url>http://origin-safari5.bvdep.com/9781430231745/web_view</url>
+        <heading>Section 8.4. </heading>
+        <type>sect1</type>
+        <title>Web View</title>
+      </section>
+      <section id="9781430231745/map_view">
+        <url>http://origin-safari5.bvdep.com/9781430231745/map_view</url>
+        <heading>Section 8.5. </heading>
+        <type>sect1</type>
+        <title>Map View</title>
+      </section>
+      <section id="9781430231745/search_bar">
+        <url>http://origin-safari5.bvdep.com/9781430231745/search_bar</url>
+        <heading>Section 8.6. </heading>
+        <type>sect1</type>
+        <title>Search Bar</title>
+      </section>
+      <section id="9781430231745/summary-013">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-013</url>
+        <heading>Section 8.7. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/working_with_tables">
+      <url>http://origin-safari5.bvdep.com/9781430231745/working_with_tables</url>
+      <heading>Chapter 9. </heading>
+      <type>chapter</type>
+      <title>Working with Tables</title>
+      <section id="9781430231745/parts_of_the_uitableview">
+        <url>http://origin-safari5.bvdep.com/9781430231745/parts_of_the_uitableview</url>
+        <heading>Section 9.1. </heading>
+        <type>sect1</type>
+        <title>Parts of the UITableView</title>
+      </section>
+      <section id="9781430231745/populating_a_table">
+        <url>http://origin-safari5.bvdep.com/9781430231745/populating_a_table</url>
+        <heading>Section 9.2. </heading>
+        <type>sect1</type>
+        <title>Populating a Table</title>
+      </section>
+      <section id="9781430231745/responding_to_user_interaction">
+        <url>http://origin-safari5.bvdep.com/9781430231745/responding_to_user_interaction</url>
+        <heading>Section 9.3. </heading>
+        <type>sect1</type>
+        <title>Responding to User Interaction</title>
+      </section>
+      <section id="9781430231745/uitableviewcontroller">
+        <url>http://origin-safari5.bvdep.com/9781430231745/uitableviewcontroller</url>
+        <heading>Section 9.4. </heading>
+        <type>sect1</type>
+        <title>UITableViewController</title>
+      </section>
+      <section id="9781430231745/refreshing_the_table_when_data_changes">
+        <url>http://origin-safari5.bvdep.com/9781430231745/refreshing_the_table_when_data_changes</url>
+        <heading>Section 9.5. </heading>
+        <type>sect1</type>
+        <title>Refreshing the Table When Data Changes</title>
+      </section>
+      <section id="9781430231745/customizing_the_appearance_of_a_table_vi">
+        <url>http://origin-safari5.bvdep.com/9781430231745/customizing_the_appearance_of_a_table_vi</url>
+        <heading>Section 9.6. </heading>
+        <type>sect1</type>
+        <title>Customizing the Appearance of a Table View</title>
+      </section>
+      <section id="9781430231745/editable_tables">
+        <url>http://origin-safari5.bvdep.com/9781430231745/editable_tables</url>
+        <heading>Section 9.7. </heading>
+        <type>sect1</type>
+        <title>Editable Tables</title>
+      </section>
+      <section id="9781430231745/table_performance_considerations">
+        <url>http://origin-safari5.bvdep.com/9781430231745/table_performance_considerations</url>
+        <heading>Section 9.8. </heading>
+        <type>sect1</type>
+        <title>Table Performance Considerations</title>
+      </section>
+      <section id="9781430231745/summary-014">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-014</url>
+        <heading>Section 9.9. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/working_with_keyboards">
+      <url>http://origin-safari5.bvdep.com/9781430231745/working_with_keyboards</url>
+      <heading>Chapter 10. </heading>
+      <type>chapter</type>
+      <title>Working with Keyboards</title>
+      <section id="9781430231745/keyboard_solidus_input_properties">
+        <url>http://origin-safari5.bvdep.com/9781430231745/keyboard_solidus_input_properties</url>
+        <heading>Section 10.1. </heading>
+        <type>sect1</type>
+        <title>Keyboard/Input Properties</title>
+      </section>
+      <section id="9781430231745/hiding_the_keyboard">
+        <url>http://origin-safari5.bvdep.com/9781430231745/hiding_the_keyboard</url>
+        <heading>Section 10.2. </heading>
+        <type>sect1</type>
+        <title>Hiding the Keyboard</title>
+      </section>
+      <section id="9781430231745/making_input_fields_visible_when_the_key">
+        <url>http://origin-safari5.bvdep.com/9781430231745/making_input_fields_visible_when_the_key</url>
+        <heading>Section 10.3. </heading>
+        <type>sect1</type>
+        <title>Making Input Fields Visible When the Keyboard Covers Them</title>
+      </section>
+      <section id="9781430231745/summary-015">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-015</url>
+        <heading>Section 10.4. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/multitasking">
+      <url>http://origin-safari5.bvdep.com/9781430231745/multitasking</url>
+      <heading>Chapter 11. </heading>
+      <type>chapter</type>
+      <title>Multitasking</title>
+      <section id="9781430231745/application_states">
+        <url>http://origin-safari5.bvdep.com/9781430231745/application_states</url>
+        <heading>Section 11.1. </heading>
+        <type>sect1</type>
+        <title>Application States</title>
+      </section>
+      <section id="9781430231745/understanding_background_tasks">
+        <url>http://origin-safari5.bvdep.com/9781430231745/understanding_background_tasks</url>
+        <heading>Section 11.2. </heading>
+        <type>sect1</type>
+        <title>Understanding Background Tasks</title>
+      </section>
+      <section id="9781430231745/asking_the_ios_for_time_to_complete_a_ta">
+        <url>http://origin-safari5.bvdep.com/9781430231745/asking_the_ios_for_time_to_complete_a_ta</url>
+        <heading>Section 11.3. </heading>
+        <type>sect1</type>
+        <title>Asking the iOS for Time to Complete a Task</title>
+      </section>
+      <section id="9781430231745/registering_your_application_to_be_allow">
+        <url>http://origin-safari5.bvdep.com/9781430231745/registering_your_application_to_be_allow</url>
+        <heading>Section 11.4. </heading>
+        <type>sect1</type>
+        <title>Registering Your Application to be Allowed to Perform a Particular Background Task Category</title>
+      </section>
+      <section id="9781430231745/audio_applications">
+        <url>http://origin-safari5.bvdep.com/9781430231745/audio_applications</url>
+        <heading>Section 11.5. </heading>
+        <type>sect1</type>
+        <title>Audio Applications</title>
+      </section>
+      <section id="9781430231745/location_applications">
+        <url>http://origin-safari5.bvdep.com/9781430231745/location_applications</url>
+        <heading>Section 11.6. </heading>
+        <type>sect1</type>
+        <title>Location Applications</title>
+      </section>
+      <section id="9781430231745/voip_applications">
+        <url>http://origin-safari5.bvdep.com/9781430231745/voip_applications</url>
+        <heading>Section 11.7. </heading>
+        <type>sect1</type>
+        <title>VoIP Applications</title>
+      </section>
+      <section id="9781430231745/summary-016">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-016</url>
+        <heading>Section 11.8. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/working_with_touch">
+      <url>http://origin-safari5.bvdep.com/9781430231745/working_with_touch</url>
+      <heading>Chapter 12. </heading>
+      <type>chapter</type>
+      <title>Working with Touch</title>
+      <section id="9781430231745/when_to_use_which_question">
+        <url>http://origin-safari5.bvdep.com/9781430231745/when_to_use_which_question</url>
+        <heading>Section 12.1. </heading>
+        <type>sect1</type>
+        <title>When to Use Which?</title>
+      </section>
+      <section id="9781430231745/enabling_touch">
+        <url>http://origin-safari5.bvdep.com/9781430231745/enabling_touch</url>
+        <heading>Section 12.2. </heading>
+        <type>sect1</type>
+        <title>Enabling Touch</title>
+      </section>
+      <section id="9781430231745/touch_events">
+        <url>http://origin-safari5.bvdep.com/9781430231745/touch_events</url>
+        <heading>Section 12.3. </heading>
+        <type>sect1</type>
+        <title>Touch Events</title>
+      </section>
+      <section id="9781430231745/gesture_recognizers">
+        <url>http://origin-safari5.bvdep.com/9781430231745/gesture_recognizers</url>
+        <heading>Section 12.4. </heading>
+        <type>sect1</type>
+        <title>Gesture Recognizers</title>
+      </section>
+      <section id="9781430231745/summary-021">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-021</url>
+        <heading>Section 12.5. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/working_with_shared_resources">
+      <url>http://origin-safari5.bvdep.com/9781430231745/working_with_shared_resources</url>
+      <heading>Chapter 13. </heading>
+      <type>chapter</type>
+      <title>Working with Shared Resources</title>
+      <section id="9781430231745/file_system">
+        <url>http://origin-safari5.bvdep.com/9781430231745/file_system</url>
+        <heading>Section 13.1. </heading>
+        <type>sect1</type>
+        <title>File System</title>
+      </section>
+      <section id="9781430231745/device_battery">
+        <url>http://origin-safari5.bvdep.com/9781430231745/device_battery</url>
+        <heading>Section 13.2. </heading>
+        <type>sect1</type>
+        <title>Device Battery</title>
+      </section>
+      <section id="9781430231745/address_book_solidus_contacts">
+        <url>http://origin-safari5.bvdep.com/9781430231745/address_book_solidus_contacts</url>
+        <heading>Section 13.3. </heading>
+        <type>sect1</type>
+        <title>Address Book/Contacts</title>
+      </section>
+      <section id="9781430231745/photos_and_camera">
+        <url>http://origin-safari5.bvdep.com/9781430231745/photos_and_camera</url>
+        <heading>Section 13.4. </heading>
+        <type>sect1</type>
+        <title>Photos and Camera</title>
+      </section>
+      <section id="9781430231745/network_activity_indicator">
+        <url>http://origin-safari5.bvdep.com/9781430231745/network_activity_indicator</url>
+        <heading>Section 13.5. </heading>
+        <type>sect1</type>
+        <title>Network Activity Indicator</title>
+      </section>
+      <section id="9781430231745/accelerometer">
+        <url>http://origin-safari5.bvdep.com/9781430231745/accelerometer</url>
+        <heading>Section 13.6. </heading>
+        <type>sect1</type>
+        <title>Accelerometer</title>
+      </section>
+      <section id="9781430231745/summary-027">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-027</url>
+        <heading>Section 13.7. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/user_and_application_settings">
+      <url>http://origin-safari5.bvdep.com/9781430231745/user_and_application_settings</url>
+      <heading>Chapter 14. </heading>
+      <type>chapter</type>
+      <title>User and Application Settings</title>
+      <section id="9781430231745/working_with_settings_in_the_ios">
+        <url>http://origin-safari5.bvdep.com/9781430231745/working_with_settings_in_the_ios</url>
+        <heading>Section 14.1. </heading>
+        <type>sect1</type>
+        <title>Working with Settings in the iOS</title>
+      </section>
+      <section id="9781430231745/registering_settings_with_the_settings_a">
+        <url>http://origin-safari5.bvdep.com/9781430231745/registering_settings_with_the_settings_a</url>
+        <heading>Section 14.2. </heading>
+        <type>sect1</type>
+        <title>Registering Settings with the Settings Application</title>
+      </section>
+      <section id="9781430231745/accessing_settings">
+        <url>http://origin-safari5.bvdep.com/9781430231745/accessing_settings</url>
+        <heading>Section 14.3. </heading>
+        <type>sect1</type>
+        <title>Accessing Settings</title>
+      </section>
+      <section id="9781430231745/saving_settings">
+        <url>http://origin-safari5.bvdep.com/9781430231745/saving_settings</url>
+        <heading>Section 14.4. </heading>
+        <type>sect1</type>
+        <title>Saving Settings</title>
+      </section>
+      <section id="9781430231745/initializing_settings">
+        <url>http://origin-safari5.bvdep.com/9781430231745/initializing_settings</url>
+        <heading>Section 14.5. </heading>
+        <type>sect1</type>
+        <title>Initializing Settings</title>
+      </section>
+      <section id="9781430231745/summary-028">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-028</url>
+        <heading>Section 14.6. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/working_with_corelocation">
+      <url>http://origin-safari5.bvdep.com/9781430231745/working_with_corelocation</url>
+      <heading>Chapter 15. </heading>
+      <type>chapter</type>
+      <title>Working with CoreLocation</title>
+      <section id="9781430231745/under_the_hood">
+        <url>http://origin-safari5.bvdep.com/9781430231745/under_the_hood</url>
+        <heading>Section 15.1. </heading>
+        <type>sect1</type>
+        <title>Under the Hood</title>
+      </section>
+      <section id="9781430231745/usage_pattern">
+        <url>http://origin-safari5.bvdep.com/9781430231745/usage_pattern</url>
+        <heading>Section 15.2. </heading>
+        <type>sect1</type>
+        <title>Usage Pattern</title>
+      </section>
+      <section id="9781430231745/instantiating_cllocationmanager">
+        <url>http://origin-safari5.bvdep.com/9781430231745/instantiating_cllocationmanager</url>
+        <heading>Section 15.3. </heading>
+        <type>sect1</type>
+        <title>Instantiating CLLocationManager</title>
+      </section>
+      <section id="9781430231745/configuring_the_location_manager">
+        <url>http://origin-safari5.bvdep.com/9781430231745/configuring_the_location_manager</url>
+        <heading>Section 15.4. </heading>
+        <type>sect1</type>
+        <title>Configuring the Location Manager</title>
+      </section>
+      <section id="9781430231745/listening_for_updates">
+        <url>http://origin-safari5.bvdep.com/9781430231745/listening_for_updates</url>
+        <heading>Section 15.5. </heading>
+        <type>sect1</type>
+        <title>Listening for Updates</title>
+      </section>
+      <section id="9781430231745/starting_the_location_service_updates">
+        <url>http://origin-safari5.bvdep.com/9781430231745/starting_the_location_service_updates</url>
+        <heading>Section 15.6. </heading>
+        <type>sect1</type>
+        <title>Starting the Location Service Updates</title>
+      </section>
+      <section id="9781430231745/stopping_updates">
+        <url>http://origin-safari5.bvdep.com/9781430231745/stopping_updates</url>
+        <heading>Section 15.7. </heading>
+        <type>sect1</type>
+        <title>Stopping Updates</title>
+      </section>
+      <section id="9781430231745/battery_drain">
+        <url>http://origin-safari5.bvdep.com/9781430231745/battery_drain</url>
+        <heading>Section 15.8. </heading>
+        <type>sect1</type>
+        <title>Battery Drain</title>
+      </section>
+      <section id="9781430231745/summary-029">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-029</url>
+        <heading>Section 15.9. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/drawing_with_coregraphics">
+      <url>http://origin-safari5.bvdep.com/9781430231745/drawing_with_coregraphics</url>
+      <heading>Chapter 16. </heading>
+      <type>chapter</type>
+      <title>Drawing with CoreGraphics</title>
+      <section id="9781430231745/painter_apostrophy_s_model">
+        <url>http://origin-safari5.bvdep.com/9781430231745/painter_apostrophy_s_model</url>
+        <heading>Section 16.1. </heading>
+        <type>sect1</type>
+        <title>Painter's Model</title>
+      </section>
+      <section id="9781430231745/performance">
+        <url>http://origin-safari5.bvdep.com/9781430231745/performance</url>
+        <heading>Section 16.2. </heading>
+        <type>sect1</type>
+        <title>Performance</title>
+      </section>
+      <section id="9781430231745/colors">
+        <url>http://origin-safari5.bvdep.com/9781430231745/colors</url>
+        <heading>Section 16.3. </heading>
+        <type>sect1</type>
+        <title>Colors</title>
+      </section>
+      <section id="9781430231745/drawing_context">
+        <url>http://origin-safari5.bvdep.com/9781430231745/drawing_context</url>
+        <heading>Section 16.4. </heading>
+        <type>sect1</type>
+        <title>Drawing Context</title>
+      </section>
+      <section id="9781430231745/coregraphics_coordinate_system">
+        <url>http://origin-safari5.bvdep.com/9781430231745/coregraphics_coordinate_system</url>
+        <heading>Section 16.5. </heading>
+        <type>sect1</type>
+        <title>CoreGraphics Coordinate System</title>
+      </section>
+      <section id="9781430231745/drawing_tools">
+        <url>http://origin-safari5.bvdep.com/9781430231745/drawing_tools</url>
+        <heading>Section 16.6. </heading>
+        <type>sect1</type>
+        <title>Drawing Tools</title>
+      </section>
+      <section id="9781430231745/transformations">
+        <url>http://origin-safari5.bvdep.com/9781430231745/transformations</url>
+        <heading>Section 16.7. </heading>
+        <type>sect1</type>
+        <title>Transformations</title>
+      </section>
+      <section id="9781430231745/hit_testing">
+        <url>http://origin-safari5.bvdep.com/9781430231745/hit_testing</url>
+        <heading>Section 16.8. </heading>
+        <type>sect1</type>
+        <title>Hit Testing</title>
+      </section>
+      <section id="9781430231745/updating_the_drawing_surface_in_real-tim">
+        <url>http://origin-safari5.bvdep.com/9781430231745/updating_the_drawing_surface_in_real-tim</url>
+        <heading>Section 16.9. </heading>
+        <type>sect1</type>
+        <title>Updating the Drawing Surface in Real-time</title>
+      </section>
+      <section id="9781430231745/other_features_of_coregraphics">
+        <url>http://origin-safari5.bvdep.com/9781430231745/other_features_of_coregraphics</url>
+        <heading>Section 16.10. </heading>
+        <type>sect1</type>
+        <title>Other Features of CoreGraphics</title>
+      </section>
+      <section id="9781430231745/summary-032">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-032</url>
+        <heading>Section 16.11. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/core_animation">
+      <url>http://origin-safari5.bvdep.com/9781430231745/core_animation</url>
+      <heading>Chapter 17. </heading>
+      <type>chapter</type>
+      <title>Core Animation</title>
+      <section id="9781430231745/view-based_animation_framework">
+        <url>http://origin-safari5.bvdep.com/9781430231745/view-based_animation_framework</url>
+        <heading>Section 17.1. </heading>
+        <type>sect1</type>
+        <title>View-Based Animation Framework</title>
+      </section>
+      <section id="9781430231745/advanced_core_animation_with_layers">
+        <url>http://origin-safari5.bvdep.com/9781430231745/advanced_core_animation_with_layers</url>
+        <heading>Section 17.2. </heading>
+        <type>sect1</type>
+        <title>Advanced Core Animation with Layers</title>
+      </section>
+      <section id="9781430231745/summary-033">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-033</url>
+        <heading>Section 17.3. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/notifications">
+      <url>http://origin-safari5.bvdep.com/9781430231745/notifications</url>
+      <heading>Chapter 18. </heading>
+      <type>chapter</type>
+      <title>Notifications</title>
+      <section id="9781430231745/how_notifications_work">
+        <url>http://origin-safari5.bvdep.com/9781430231745/how_notifications_work</url>
+        <heading>Section 18.1. </heading>
+        <type>sect1</type>
+        <title>How Notifications Work</title>
+      </section>
+      <section id="9781430231745/scheduling_local_notifications">
+        <url>http://origin-safari5.bvdep.com/9781430231745/scheduling_local_notifications</url>
+        <heading>Section 18.2. </heading>
+        <type>sect1</type>
+        <title>Scheduling Local Notifications</title>
+      </section>
+      <section id="9781430231745/handling_notifications">
+        <url>http://origin-safari5.bvdep.com/9781430231745/handling_notifications</url>
+        <heading>Section 18.3. </heading>
+        <type>sect1</type>
+        <title>Handling Notifications</title>
+      </section>
+      <section id="9781430231745/push_notifications">
+        <url>http://origin-safari5.bvdep.com/9781430231745/push_notifications</url>
+        <heading>Section 18.4. </heading>
+        <type>sect1</type>
+        <title>Push Notifications</title>
+      </section>
+      <section id="9781430231745/summary-035">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-035</url>
+        <heading>Section 18.5. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/working_with_data">
+      <url>http://origin-safari5.bvdep.com/9781430231745/working_with_data</url>
+      <heading>Chapter 19. </heading>
+      <type>chapter</type>
+      <title>Working with Data</title>
+      <section id="9781430231745/sqlite">
+        <url>http://origin-safari5.bvdep.com/9781430231745/sqlite</url>
+        <heading>Section 19.1. </heading>
+        <type>sect1</type>
+        <title>SQLite</title>
+      </section>
+      <section id="9781430231745/backups_and_data_update_strategy">
+        <url>http://origin-safari5.bvdep.com/9781430231745/backups_and_data_update_strategy</url>
+        <heading>Section 19.2. </heading>
+        <type>sect1</type>
+        <title>Backups and Data Update Strategy</title>
+      </section>
+      <section id="9781430231745/data_access_technologies">
+        <url>http://origin-safari5.bvdep.com/9781430231745/data_access_technologies</url>
+        <heading>Section 19.3. </heading>
+        <type>sect1</type>
+        <title>Data Access Technologies</title>
+      </section>
+      <section id="9781430231745/summary-043">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-043</url>
+        <heading>Section 19.4. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/publishing_to_the_app_store">
+      <url>http://origin-safari5.bvdep.com/9781430231745/publishing_to_the_app_store</url>
+      <heading>Chapter 20. </heading>
+      <type>chapter</type>
+      <title>Publishing to the App Store</title>
+      <section id="9781430231745/review_guideline_conformity">
+        <url>http://origin-safari5.bvdep.com/9781430231745/review_guideline_conformity</url>
+        <heading>Section 20.1. </heading>
+        <type>sect1</type>
+        <title>Review Guideline Conformity</title>
+      </section>
+      <section id="9781430231745/building_for_distribution">
+        <url>http://origin-safari5.bvdep.com/9781430231745/building_for_distribution</url>
+        <heading>Section 20.2. </heading>
+        <type>sect1</type>
+        <title>Building for Distribution</title>
+      </section>
+      <section id="9781430231745/submitting_your_app_via_itunes_connect">
+        <url>http://origin-safari5.bvdep.com/9781430231745/submitting_your_app_via_itunes_connect</url>
+        <heading>Section 20.3. </heading>
+        <type>sect1</type>
+        <title>Submitting Your App via iTunes Connect</title>
+      </section>
+      <section id="9781430231745/application_rejection_dispute_resolution">
+        <url>http://origin-safari5.bvdep.com/9781430231745/application_rejection_dispute_resolution</url>
+        <heading>Section 20.4. </heading>
+        <type>sect1</type>
+        <title>Application Rejection Dispute Resolution</title>
+      </section>
+      <section id="9781430231745/summary-044">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-044</url>
+        <heading>Section 20.5. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/third-party_libraries">
+      <url>http://origin-safari5.bvdep.com/9781430231745/third-party_libraries</url>
+      <heading>Chapter 21. </heading>
+      <type>chapter</type>
+      <title>Third-Party Libraries</title>
+      <section id="9781430231745/monotouch.dialog">
+        <url>http://origin-safari5.bvdep.com/9781430231745/monotouch.dialog</url>
+        <heading>Section 21.1. </heading>
+        <type>sect1</type>
+        <title>MonoTouch.Dialog</title>
+      </section>
+      <section id="9781430231745/monotouch-facebook">
+        <url>http://origin-safari5.bvdep.com/9781430231745/monotouch-facebook</url>
+        <heading>Section 21.2. </heading>
+        <type>sect1</type>
+        <title>MonoTouch-Facebook</title>
+      </section>
+      <section id="9781430231745/three20">
+        <url>http://origin-safari5.bvdep.com/9781430231745/three20</url>
+        <heading>Section 21.3. </heading>
+        <type>sect1</type>
+        <title>Three20</title>
+      </section>
+      <section id="9781430231745/tapku">
+        <url>http://origin-safari5.bvdep.com/9781430231745/tapku</url>
+        <heading>Section 21.4. </heading>
+        <type>sect1</type>
+        <title>Tapku</title>
+      </section>
+      <section id="9781430231745/monotouch-controls">
+        <url>http://origin-safari5.bvdep.com/9781430231745/monotouch-controls</url>
+        <heading>Section 21.5. </heading>
+        <type>sect1</type>
+        <title>MonoTouch-Controls</title>
+      </section>
+      <section id="9781430231745/xnatouch">
+        <url>http://origin-safari5.bvdep.com/9781430231745/xnatouch</url>
+        <heading>Section 21.6. </heading>
+        <type>sect1</type>
+        <title>XNATouch</title>
+      </section>
+      <section id="9781430231745/summary-045">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-045</url>
+        <heading>Section 21.7. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/using_objective-c_libraries_and_code">
+      <url>http://origin-safari5.bvdep.com/9781430231745/using_objective-c_libraries_and_code</url>
+      <heading>Chapter 22. </heading>
+      <type>chapter</type>
+      <title>Using Objective-C Libraries and Code</title>
+      <section id="9781430231745/btouch">
+        <url>http://origin-safari5.bvdep.com/9781430231745/btouch</url>
+        <heading>Section 22.1. </heading>
+        <type>sect1</type>
+        <title>btouch</title>
+      </section>
+      <section id="9781430231745/a_quick_objective-c_primer">
+        <url>http://origin-safari5.bvdep.com/9781430231745/a_quick_objective-c_primer</url>
+        <heading>Section 22.2. </heading>
+        <type>sect1</type>
+        <title>A Quick Objective-C Primer</title>
+      </section>
+      <section id="9781430231745/compiling_the_objective-c_library">
+        <url>http://origin-safari5.bvdep.com/9781430231745/compiling_the_objective-c_library</url>
+        <heading>Section 22.3. </heading>
+        <type>sect1</type>
+        <title>Compiling the Objective-C Library</title>
+      </section>
+      <section id="9781430231745/summary-047">
+        <url>http://origin-safari5.bvdep.com/9781430231745/summary-047</url>
+        <heading>Section 22.4. </heading>
+        <type>sect1</type>
+        <title>Summary</title>
+      </section>
+    </section>
+    <section id="9781430231745/bvdidx">
+      <url>http://origin-safari5.bvdep.com/9781430231745/bvdidx</url>
+      <heading></heading>
+      <type>chapter</type>
+      <title>Index</title>
+    </section>
+  </tableofcontents>
+</book>
